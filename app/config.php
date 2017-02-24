@@ -1,14 +1,14 @@
 <?php
 	// ** Database settings ** //
 	/** DB Host */
-	define("DB_HOST", "localhost");
+	define("DB_HOST", "");
 
 	/** DB User */
-	define("DB_USER", "root");
+	define("DB_USER", "");
 
 	/** DB Password */
-	define("DB_PASSWORD", "19FylhbR99");
+	define("DB_PASSWORD", "");
 
 	/** DB Name */
-	define("DB_NAME", "leader");
+	define("DB_NAME", "");
 ?>
